@@ -1,0 +1,70 @@
+html {
+    background-color: black;
+}
+
+
+.loraeai {
+    position: absolute;
+}
+
+.calendly-inline-widget{
+
+    max-width: 200px;
+    max-height: 340px;
+    position: relative;
+    top: -680px
+
+}
+
+.name > h1 {
+    position: relative;
+    left: 160px;
+    top: -700px;
+    color: blue;
+    font-size: 6rem;
+    font-family: "Mirza", serif ;
+    font-weight: 100;
+    display: block;
+
+}
+
+
+.mirza-regular {
+    font-family: "Mirza", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .mirza-medium {
+    font-family: "Mirza", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .mirza-semibold {
+    font-family: "Mirza", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .mirza-bold {
+    font-family: "Mirza", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.greybox {
+  background-color: grey;
+  width: 500px;
+  height: 140px;
+  position: relative;
+  left: 320px;
+  top: -101px;
+
+  
+}
+
+#custom-cards {
+  position: relative;
+  top: 800px;
+}
